@@ -18,6 +18,27 @@ Replace program_name with the name of the program you want to compile. Once the 
 
 ```./program_name```
 
+---
+
+#### source codes are written in following format 
+
+```/*
+..
+description of required program
+..
+*/
+.......
+.......
+program
+.......
+.......
+/*
+...
+output
+..
+*/
+```
+
 ### License
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
